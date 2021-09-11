@@ -1,0 +1,31 @@
+Hello Challenger,
+Welcome to BrickBreaker - CIS 120 Student edit.... Yeah I know it sounds boring but listen up. I'm the BrickBreakerGod. Let me introduce the game to you before you start so that you won't fail too easily.
+
+BrickBreaker is a game that mimic the game Breakout by Atari in 1976. Basically, the game requires a paddle, which you will be controlling, some bricks on the top of the window, which you are trying to break, and a circle, which you will use to break the brick.
+
+Three keys are necessary in order to play the game:
+1. Left key, which will make the paddle to go left
+2. Right key, which will make the paddle to go right
+3. Space key, which will shoot the circle when the circle is sticked on the paddle
+
+At the beginning, you will have 3 lives.
+
+The main objective of this game is to break all the bricks before you use up all your life. Each brick is worth 10 points. We will show a ranking with scores and the record keepers, since the "creation" of BrickkBreaker world, on the right side of the window. If your score is high enough, like top 5, you may be on it. But I beat you can't!
+
+Just some tips for you in case you fail too soon. Note that when you see the actual game court, some bricks are in red. These are the bricks with superpower. So when you hit them:
+1. Your paddle will be longer in a couple of seconds
+2. Your paddle will be shorter in a couple of seconds
+But don't worry, once the time is up, your paddle will transform back to normal. But I won't tell you when! Muhahahahaha!
+
+You can also press the pause button at the bottom of the window to pause the game. You can restart the game by pressing restart. When a game is finished and you want another one, press restart!!! Make sure you click restart after pausing!!
+
+If you exit the game before you are done, your game will not be counted. Also, you must put a proper name after you finish your game. You will know how (pop up window).
+
+Oh right. You can also press customzie at the bottom of the window to get a panel where you can customize. When you click a brick in that panel, it will change its color. At the end, all the bricks with white will be the map you create for your new round of game. Note that if you press this evil button (customize), your game will be reset. You can also press reset button in the panel if you don't like your drawing.
+
+Don't be a cheater and customize a map with no bricks! You will pay for this!
+
+If you ready, click the close button on the top left to start the game
+
+Good luck challenger
+BrickBreakerGod
